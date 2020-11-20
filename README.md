@@ -36,12 +36,17 @@ The following colors are a available:
     PURPLE
     CYAN
     WHITE
+
+![Avaliable colors](https://raw.githubusercontent.com/CassianoBelniak/katuiche-colorful-console/develop/addons/katuiche-colorful-console/screenshots/colors.png)
+
 Those colors are also available in four variances:
 
     <COLOR>_BRIGHT
     <COLOR>_BOLD
     <COLOR>_BOLD_BRIGHT
     <COLOR>_UNDERLINED
+
+![Color variances](https://raw.githubusercontent.com/CassianoBelniak/katuiche-colorful-console/develop/addons/katuiche-colorful-console/screenshots/extra-colors.png)
 
 Background colors are also available in normal and bright variance.
 
@@ -68,5 +73,6 @@ Then, restart Godot.**
 It allows ANSI characters to be interpreted by the Windows console.
 
 ### Thats all!
-If you are felling it, please leave a donaton!
-![PayPal button(https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S7D8VGAH3KVPY&currency_code=BRL)](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)
+If you are felling it, please leave a donation!
+
+[![PayPal button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S7D8VGAH3KVPY&currency_code=BRL)
