@@ -95,6 +95,11 @@ static func s(color, what) -> void:
     print(_get_string(what, " "))
     reset()
 
+static func t(color, what) -> void:
+    set_color(color)
+    print(_get_string(what, "   "))
+    reset()
+
 static func debug(color, what) -> void:
     set_color(color)
     print(_get_string(what))
