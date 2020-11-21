@@ -19,6 +19,8 @@ func _ready() -> void:
     Print.raw(Print.BLUE, "o")
     Print.raw(Print.PURPLE, "w")
 
+    print()
+
     Print.set_color(Print.YELLOW)
     print("now everthing is in yellow")
     print("forever")
