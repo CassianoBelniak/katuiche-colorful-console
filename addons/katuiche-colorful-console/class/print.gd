@@ -63,9 +63,8 @@ const WHITE_BACKGROUND_BRIGHT = "[0;107m";
 
 static func clear_console():
     match OS.get_name():
-        'Windows': print(ESCAPE + 'cls')
-        'OSX': print(ESCAPE + 'clear')
-        _: print(ESCAPE + 'clear')
+        'Windows': printraw(ESCAPE + 'c')
+        _: printraw(ESCAPE + 'c')
 
 static func _get_string(what, divider = ""):
     var string := ""
