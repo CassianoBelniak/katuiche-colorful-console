@@ -26,7 +26,3 @@ config/icon="res://icon.png"
 [editor_plugins]
 
 enabled=PoolStringArray( "katuiche-colorful-console" )
-
-[rendering]
-
-environment/default_environment="res://default_env.tres"
