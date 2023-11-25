@@ -1,6 +1,9 @@
 
 # Katuiche Colorful Console
 ### Add colors to your Godot console!
+
+> **Deprecated:** Godot 4.x implemented `print_rich(...)` which allows better formating when printing text. This package still usefull for Godot 3.x.
+
 Hello there!
 So you ever wanted a better formatation for your massive logging and those white lines on black background don't do justice to your beautiful data? 
 **Say no more!** With "Katuiche Colorful Console" you can now print text in any color you want!
